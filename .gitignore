@@ -1,0 +1,33 @@
+# macOS 시스템 파일
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# 윈도우 시스템 파일
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# 리눅스 시스템 파일
+*~
+.directory
+
+# IDE 및 에디터 파일
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.project
+.classpath
+
+# 로그 파일
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 임시 파일
+tmp/
+temp/ 
